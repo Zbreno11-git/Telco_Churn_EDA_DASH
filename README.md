@@ -62,11 +62,11 @@ A Random Forest Classifier was trained to predict churn probability using key be
 
 ### Internet Service Analysis
 
-*(Insert visualization here)*
+![Churn by Internet Service](churn_internetserv.png)
 
 ### Contract Type Analysis
 
-*(Insert visualization here)*
+![Churn by Contract](churn_contract.png)
 
 ---
 
@@ -83,7 +83,7 @@ A Random Forest Classifier was trained to predict churn probability using key be
 
 Explore the full dashboard on Tableau:
 
-👉 *(Insert Tableau link here)*
+👉 [View Full Tableau Dashboard]((https://public.tableau.com/views/Telco_Churn_17776656598520/Dash?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 ---
 
