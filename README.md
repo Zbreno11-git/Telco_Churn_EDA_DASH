@@ -83,7 +83,7 @@ A Random Forest Classifier was trained to predict churn probability using key be
 
 Explore the full dashboard on Tableau:
 
-👉 [View Full Tableau Dashboard]((https://public.tableau.com/views/Telco_Churn_17776656598520/Dash?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+👉 [View Full Tableau Dashboard](https://public.tableau.com/views/Telco_Churn_17776656598520/Dash?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
